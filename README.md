@@ -1,6 +1,6 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey hola, soy Oscar Osorio <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h2>
 
-### 👨🏻‍💻 &nbsp;Sobre me
+### 👨🏻‍💻 &nbsp;Sobre mi
 
 💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software.\
 🎓 &nbsp;Actualmente estoy estudiando Ingeniería de Sistemas en la Universidad de Pamplona.\
