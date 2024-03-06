@@ -9,7 +9,7 @@
 📄 &nbsp;Si gustas pasate por mi [Portafolio-Web](https://oscar-osorio-dev.000webhostapp.com).\
 ⚡ &nbsp;Dato curioso: La comida y la música son las razones para vivir
 
-### &nbsp;Lenguajes
+### &nbsp;Programming Language
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
