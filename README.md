@@ -8,11 +8,9 @@
 <br/>
 
 ### Tech Stack
-
-[![Front-End](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[![Front-End](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ 
+[![Front-End](https://skillicons.dev/icons?i=js,ts,py,java)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [![Front-End](https://skillicons.dev/icons?i=react)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [![Front-End](https://skillicons.dev/icons?i=tailwind,scss,bootstrap)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[![Back-End](https://skillicons.dev/icons?i=py,java)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [![Back-End](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [![Back-End](https://skillicons.dev/icons?i=nodejs,spring,express)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
