@@ -4,7 +4,7 @@
 🌱 &nbsp;I’m constantly learning.\
 🎓 &nbsp;I’m currently studying Systems Engineering at the University of Pamplona.\
 ✉️ &nbsp;You can email me at oscar.osorio1884@gmail.com! I will try to respond as soon as I can.\
-📄 &nbsp;If you want, go through my [web portfolio](https://oscarosorio-dev.vercel.app).
+📄 &nbsp;If you want, go through my <a href="https://oscarosorio-dev.vercel.app" target="_blank">web portfolio</a>
 <br/>
 
 ### Tech Stack
