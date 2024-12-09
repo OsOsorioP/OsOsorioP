@@ -1,3 +1,7 @@
+<p align="center">
+  | <a href="https://oscarosorio-dev.vercel.app" target="_blank">English</a> |
+</p>
+
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hola, Soy Oscar Osorio <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h2>
 
 ### 👨🏻‍💻 &nbsp;Sobre Mi
