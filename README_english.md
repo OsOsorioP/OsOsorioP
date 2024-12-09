@@ -1,3 +1,3 @@
 <p align="center">
-  <a href="https://oscarosorio-dev.vercel.app" target="_blank">Spanish</a>
+  <a href="https://github.com/OsOsorioP/OsOsorioP/blob/main/README.md" target="_blank">Spanish</a>
 </p>
