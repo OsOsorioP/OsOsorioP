@@ -5,8 +5,8 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hi, I'm Oscar Osorio <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
-🎶 &nbsp;I'm really into music.
-🤖 &nbsp;I'm presently studying AI Agents and Web Development.
+🎶 &nbsp;I'm really into music.\
+🤖 &nbsp;I'm presently studying AI Agents and Web Development.\
 ✉️ &nbsp;You can email me at oscar.osorio1884@gmail.com! I'll try to reply as soon as I can.\
 📄 &nbsp;Feel free to check out my <a href="https://oscarosorio-dev.vercel.app" target="_blank">portfolio website</a>
 <br/>
