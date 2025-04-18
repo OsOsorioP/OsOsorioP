@@ -22,4 +22,4 @@
 ![Static Badge](https://img.shields.io/badge/LangChain-black?style=flat-square&logo=langchain&logoColor=white&logoSize=auto) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Static Badge](https://img.shields.io/badge/LangGraph-black?style=flat-square&logo=langgraph&logoColor=white&logoSize=auto) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-[![roadmap.sh](https://roadmap.sh/card/wide/67e35fbca302be5a56f215f7?variant=dark&roadmaps=react-native%2Cflutter)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/67e35fbca302be5a56f215f7?variant=dark&roadmaps=react-native)](https://roadmap.sh)
