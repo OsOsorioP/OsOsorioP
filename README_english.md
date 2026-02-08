@@ -20,4 +20,4 @@
 [![Back-End](https://skillicons.dev/icons?i=docker,git)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 ![Static Badge](https://img.shields.io/badge/LangChain-1D3C3E?style=flat-square&logo=langchain&logoColor=white&logoSize=auto) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Static Badge](https://img.shields.io/badge/LangGraph-1D3C3E?style=flat-square&logo=langgraph&logoColor=white&logoSize=auto) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Static Badge](https://img.shields.io/badge/LangGraph-1D3C3E?style=flat-square&logo=langgraph&logoColor=white&logoSize=auto) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
